@@ -1,12 +1,12 @@
 <div align="center">
   <img height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
   
-  <h1>Olá, sou Lucas Alves Vilela!  ☕ </h1>
+  <h1>Olá, sou Lucas Alves Vilela! <img src="https://media.giphy.com/media/hvRJCLFzcuMiQ/giphy.gif" width="30px"></h1>
 
   ### Frontend Developer & Mobile Engineer
   
   <p>
-    <em>"Criando interfaces excepcionais (Vue.js & Flutter) suportadas por uma engenharia sólida."</em>
+    <em>"Criando interfaces excepcionais com (Vue.js & Flutter)"</em>
   </p>
 
   <p>
@@ -50,6 +50,7 @@ Minha especialidade é o **Frontend** (Vue.js) e **Mobile** (Flutter/iOS), mas p
 
 #### **Backend & Cloud (Full Stack Background)**
 <div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-Laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
   <img align="center" alt="Lucas-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Lucas-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Lucas-Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
@@ -71,11 +72,11 @@ Minha especialidade é o **Frontend** (Vue.js) e **Mobile** (Flutter/iOS), mas p
 
 | Projeto | Tech Stack | Descrição |
 | :--- | :--- | :--- |
-| **Unified Klipper Control** | `Flutter` `Python` `IoT` | **[MVP]** Painel mobile centralizado para gestão de múltiplas impressoras 3D via API REST local. |
-| **LifeKeeper** | `Flutter` `Firebase` `Play Store` | App utilitário para board games com RNG e gestão de estado. Já publicado na Google Play. |
-| **Graveyard Survival** | `Godot` `GameDev` | **[Vencedor GameJam UnB]** Roguelike desenvolvido em 4 dias com sistemas de meta-progressão. |
-| **Smart Asset Manager** | `Swift` `Node-RED` `IoT` | Solução iOS nativa integrada via NFC para gestão de ativos de alto valor (HackaTruck). |
-| **MyMusic** | `Flutter` `API REST` | Agregador de streaming mobile com integração Spotify/YouTube e arquitetura robusta. |
+| **Unified Klipper Control** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-Hardware-red?style=flat-square) | **[MVP]** Painel mobile centralizado para gestão de múltiplas impressoras 3D via API REST local. |
+| **LifeKeeper** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black) | App utilitário para board games com RNG e gestão de estado. Já publicado na Google Play. |
+| **Graveyard Survival** | ![Godot](https://img.shields.io/badge/Godot-478cbf?style=flat-square&logo=godot&logoColor=white) ![GameDev](https://img.shields.io/badge/GameJam-Vencedor-gold?style=flat-square) | **[Vencedor GameJam UnB]** Roguelike desenvolvido em 4 dias com sistemas de meta-progressão. |
+| **Smart Asset Manager** | ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white) | Solução iOS nativa integrada via NFC para gestão de ativos de alto valor (HackaTruck). |
+| **MyMusic** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![API](https://img.shields.io/badge/REST%20API-Integration-success?style=flat-square) | Agregador de streaming mobile com integração Spotify/YouTube e arquitetura robusta. |
 
 ---
 
@@ -91,5 +92,7 @@ Minha especialidade é o **Frontend** (Vue.js) e **Mobile** (Flutter/iOS), mas p
 ---
 
 <div align="center">
-  <sub>Construído com ☕ e código por Lucas Alves Vilela.</sub>
+  <a href="https://linkedin.com/in/Lucas-AV">
+    <img src="https://img.shields.io/badge/Desenvolvido%20por-Lucas%20Alves%20Vilela-282a36?style=for-the-badge&logo=appveyor&logoColor=white" alt="Desenvolvido por Lucas Alves Vilela">
+  </a>
 </div>
