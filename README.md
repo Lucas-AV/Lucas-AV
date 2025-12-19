@@ -23,7 +23,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou um **Desenvolvedor de Software** baseado em Brasília 🇧🇷, focado em desenvolvimento para **Web** e **Mobile**. 
+Sou um **Desenvolvedor de Software** em Brasília 🇧🇷, focado em desenvolvimento **Web** e **Mobile**. 
 
 Minha especialidade é o **Frontend** (Vue.js) e **Mobile** (Flutter/iOS), mas possuo background **Full Stack**. Isso significa que não apenas desenho a interface, mas entendo a arquitetura do banco de dados, APIs e infraestrutura que fazem tudo funcionar.
 
