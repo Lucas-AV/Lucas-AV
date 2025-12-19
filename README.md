@@ -83,7 +83,7 @@ Minha especialidade é o **Frontend** (Vue.js) e **Mobile** (Flutter/iOS), mas p
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Lucas-AV">
+  <a href="https://www.linkedin.com/in/lucasvilela-dev/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-AV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-AV&layout=compact&theme=dracula"/>
   </a>
