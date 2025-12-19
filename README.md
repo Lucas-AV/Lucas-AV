@@ -92,7 +92,7 @@ Minha especialidade é o **Frontend** (Vue.js) e **Mobile** (Flutter/iOS), mas p
 ---
 
 <div align="center">
-  <a href="https://linkedin.com/in/Lucas-AV">
+  <a href="https://www.linkedin.com/in/lucasvilela-dev/">
     <img src="https://img.shields.io/badge/Desenvolvido%20por-Lucas%20Alves%20Vilela-282a36?style=for-the-badge&logo=appveyor&logoColor=white" alt="Desenvolvido por Lucas Alves Vilela">
   </a>
 </div>
