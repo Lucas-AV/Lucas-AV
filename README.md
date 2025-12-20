@@ -1,7 +1,7 @@
 <div align="center">
   <img height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
   
-  <h1>Olá, sou Lucas Alves Vilela! <img src="https://media.giphy.com/media/hvRJCLFzcuMiQ/giphy.gif" width="30px"></h1>
+  <h1>Olá, sou Lucas Alves Vilela!</h1>
 
   ### Frontend Developer & Mobile Engineer
   
