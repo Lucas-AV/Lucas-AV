@@ -4,11 +4,11 @@
   <h1>Olá, sou Lucas Alves Vilela!</h1>
 
   ### Fullstack Developer & Mobile Engineer
-  
-  <p>
-    <em>"Criando interfaces excepcionais com (Vue.js & Flutter)"</em>
-  </p>
-
+  <!--
+    <p>
+      <em>"Criando interfaces excepcionais com (Vue.js & Flutter)"</em>
+    </p>
+  -->
   <p>
   <a href="https://linkedin.com/in/Lucas-AV" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
