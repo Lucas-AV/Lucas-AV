@@ -3,7 +3,7 @@
   
   <h1>Olá, sou Lucas Alves Vilela!</h1>
 
-  ### Frontend Developer & Mobile Engineer
+  ### Fullstack Developer & Mobile Engineer
   
   <p>
     <em>"Criando interfaces excepcionais com (Vue.js & Flutter)"</em>
