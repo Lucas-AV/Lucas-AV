@@ -79,18 +79,6 @@ Minha especialidade é o **Frontend** (Vue.js) e **Mobile** (Flutter/iOS), mas p
 | **MyMusic** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![API](https://img.shields.io/badge/REST%20API-Integration-success?style=flat-square) | Aplicativo de stream mobile integrando as APIs do Spotify e Youtube |
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/lucasvilela-dev/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-AV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-AV&layout=compact&theme=dracula"/>
-  </a>
-</div>
-
----
-
 <div align="center">
   <a href="https://www.linkedin.com/in/lucasvilela-dev/">
     <img src="https://img.shields.io/badge/Desenvolvido%20por-Lucas%20Alves%20Vilela-282a36?style=for-the-badge&logo=appveyor&logoColor=white" alt="Desenvolvido por Lucas Alves Vilela">
