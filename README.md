@@ -3,7 +3,7 @@
   
   <h1>Olá, sou Lucas Alves Vilela!</h1>
 
-  ### Fullstack Developer & Mobile Engineer
+  ### Fullstack Developer (web & Mobile)
   <!--
     <p>
       <em>"Criando interfaces excepcionais com (Vue.js & Flutter)"</em>
@@ -25,9 +25,9 @@
 
 Sou um **Desenvolvedor de Software** em Brasília 🇧🇷, focado em desenvolvimento **Web** e **Mobile**. 
 
-Minha especialidade é o **Frontend** (Vue.js) e **Mobile** (Flutter/iOS), mas possuo background **Full Stack**. Isso significa que não apenas desenho a interface, mas entendo a arquitetura do banco de dados, APIs e infraestrutura que fazem tudo funcionar.
+Minha especialidade é o **Frontend** (Vue.js) e **Mobile** (Flutter/iOS), mas possuo background **Full Stack**. Isso significa que não apenas desenho a interface, mas entendo a arquitetura do banco de dados (MySQL), APIs e infraestrutura que fazem tudo funcionar (Laravel).
 
-* 💼 Atualmente: **Desenvolvedor Full Stack na Carristas** (Vue.js, Laravel & SQL).
+* 💼 Atualmente: **Desenvolvedor Full Stack na Carristas** (Vue.js, Laravel & SQL, Plataforma Web).
 * 🔭 Trabalhando no MVP do **Unified Klipper Control System** (IoT & Flutter).
 * 📱 Experiência com publicação de Apps na **Google Play Store**.
 * 🎓 Graduando em **Engenharia de Software** na UCB - Universidade Católica de Brasília.
@@ -37,7 +37,7 @@ Minha especialidade é o **Frontend** (Vue.js) e **Mobile** (Flutter/iOS), mas p
 
 ### 🛠️ Tech Stack
 
-#### **Frontend & Mobile (Foco Principal)**
+#### **Frontend (Foco Principal)**
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Flutter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Lucas-Dart" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
