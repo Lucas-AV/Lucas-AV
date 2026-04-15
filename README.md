@@ -24,10 +24,10 @@
 
 Sou um **Desenvolvedor de Software** baseado em Brasília 🇧🇷. Minha grande paixão e especialidade residem no ecossistema **Frontend (Vue.js / React)** e **Mobile (Flutter / Expo)**, criando experiências de usuário fluidas e escaláveis. 
 
-Possuo um forte background como **Full Stack**, o que me permite não apenas desenhar a interface, mas arquitetar bancos de dados relacionais (MySQL), desenvolver APIs e gerenciar a infraestrutura que faz tudo funcionar (PHP/Laravel).
+Possuo um forte background como **Full Stack**, o que me permite não apenas desenhar a interface, mas arquitetar bancos de dados relacionais (MySQL), desenvolver APIs e gerenciar a infraestrutura que faz tudo funcionar (PHP/Laravel). Além do código, sou entusiasta de **Hardware e Impressão 3D**, integrando sistemas IoT para automação de fabricação digital.
 
 * 💼 **Atualmente:** Desenvolvedor Freelancer Full Stack na **Carristas** (Vue.js, Laravel & SQL).
-* 🎓 **Formação:** Graduando em **Engenharia de Software** pela UCB (Universidade Católica de Brasília).
+* 🎓 **Formação:** Último semestre de **Engenharia de Software** pela UCB (Formando em 2026/1).
 * 🏆 **Conquistas:** * Vencedor da **GameJam UnB-FGA (2024)**.
   * Participante da **OBI (Olimpíada Brasileira de Informática) 2022 - Nível Sênior**.
 * 🔭 **Projetos Atuais:** Trabalhando no MVP do **Unified Klipper Control System** (IoT, Flutter & Impressão 3D).
@@ -35,7 +35,7 @@ Possuo um forte background como **Full Stack**, o que me permite não apenas des
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Skills
 
 #### 🌐 **Frontend Web (Foco Principal)**
 * <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" align="center" /> - Criação de interfaces reativas, SPAs e componentes modulares.
@@ -57,12 +57,23 @@ Possuo um forte background como **Full Stack**, o que me permite não apenas des
 * <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" align="center" /> - Modelagem, consultas complexas e gerenciamento de banco de dados relacional.
 * <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" align="center" /> - Autenticação rápida, banco de dados NoSQL em tempo real e push notifications.
 
+#### 🖨️ **Hardware & 3D Printing**
+* <img src="https://img.shields.io/badge/CAD_Modeling-282a36?style=for-the-badge&logo=autodesk&logoColor=white" alt="CAD" align="center" /> - Design de peças técnicas e prototipagem funcional para engenharia.
+* <img src="https://img.shields.io/badge/Fusion_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion360" align="center" /> - Modelagem paramétrica avançada e simulações.
+* <img src="https://img.shields.io/badge/Tinkercad-FF9900?style=for-the-badge&logo=tinkercad&logoColor=white" alt="Tinkercad" align="center" /> - Prototipagem rápida e modelagem simplificada.
+* <img src="https://img.shields.io/badge/Klipper-E32C2D?style=for-the-badge&logo=klipper&logoColor=white" alt="Klipper" align="center" /> - Customização de firmware via Linux/Raspberry Pi para alta performance.
+* <img src="https://img.shields.io/badge/Marlin-2196F3?style=for-the-badge&logo=m&logoColor=white" alt="Marlin" align="center" /> - Configuração, compilação e manutenção de firmware FDM tradicional.
+
 #### 🔧 **Ferramentas, IoT & GameDev**
 * <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" align="center" /> - Versionamento de código e fluxo de trabalho colaborativo.
 * <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" align="center" /> - Containerização para padronizar ambientes de desenvolvimento e deploy.
 * <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" align="center" /> - Administração de servidores e ambiente principal de desenvolvimento.
 * <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" align="center" /> - Criação de jogos (como Roguelikes) utilizando GDScript e sistemas de física.
 * <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" align="center" /> - Hospedagem de serviços locais e projetos de hardware/impressão 3D.
+
+#### 🗣️ **Idiomas**
+* <img src="https://img.shields.io/badge/Inglês-Avançado-blue?style=flat-square" alt="Inglês" align="center" /> - Proficiência para leitura técnica, documentação e comunicação internacional.
+* <img src="https://img.shields.io/badge/Português-Nativo-green?style=flat-square" alt="Português" align="center" />
 
 ---
 
