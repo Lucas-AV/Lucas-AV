@@ -25,7 +25,7 @@
 
 Sou um **Desenvolvedor de Software** em Brasília 🇧🇷, focado em desenvolvimento **Web** e **Mobile**. 
 
-Minha especialidade é o **Frontend** (Vue.js) e **Mobile** (Flutter/iOS), mas possuo background **Full Stack**. Isso significa que não apenas desenho a interface, mas entendo a arquitetura do banco de dados (MySQL), APIs e infraestrutura que fazem tudo funcionar (Laravel).
+Minha especialidade é o **Frontend** (Vue.js) e **Mobile** (Flutter/iOS), mas possuo background **Full Stack**. Isso significa que não apenas desenho a interface, mas entendo a arquitetura do banco de dados (MySQL), APIs e infraestrutura que fazem tudo funcionar (PHP/Laravel).
 
 * 💼 Atualmente: **Desenvolvedor Full Stack na Carristas** (Vue.js, Laravel & SQL, Plataforma Web).
 * 🔭 Trabalhando no MVP do **Unified Klipper Control System** (IoT & Flutter).
